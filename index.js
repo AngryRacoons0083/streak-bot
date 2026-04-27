@@ -2,7 +2,7 @@ const { Client, GatewayIntentBits, Partials } = require('discord.js');
 const cron = require('node-cron');
 const fs = require('fs');
 
-const TOKEN = 'MTQ5NzkzMzg4NjM4OTM1ODYyMg.Gtl81e.jjVEg8LecaaDNSzeX2aQBPDEVFgNKDv62ticEY';
+const TOKEN = process.env.TOKEN;
 const CHANNEL_ID = '1497879464905019544';
 
 const client = new Client({
