@@ -1,14 +1,5 @@
 {
-  "day": 1,
-  "users": {
-    "831469323784421406": {
-      "streak": 1,
-      "lastDay": 1
-    },
-    "727816175769223189": {
-      "streak": 1,
-      "lastDay": 1
-    }
-  },
-  "lastMessageId": "1498395411864354888"
+  "day": 0,
+  "users": {},
+  "lastMessageId": null
 }
